@@ -1,0 +1,5 @@
+package com.musicapp.controller;
+
+public class UserController {
+
+}

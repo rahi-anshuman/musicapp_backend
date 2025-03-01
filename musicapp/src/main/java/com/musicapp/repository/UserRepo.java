@@ -1,0 +1,10 @@
+package com.musicapp.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.musicapp.model.User;
+
+
+public interface UserRepo extends JpaRepository<User, Integer> {
+
+}
